@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView what = findViewById(R.id.LUL);
 
-        what.setText("WHAT IS HTIS???");
+        what.setText("NOW THIS IS  ASOTRY ALL ABOUT HOW I BECAME SO RICH FORM SCAMM");
     }
 
 
